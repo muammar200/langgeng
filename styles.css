@@ -63,3 +63,4 @@ body{font-size:16px}
 .archive-legend dd{margin:0;font-weight:700;font-variant-numeric:tabular-nums}
 .queue-pagination{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-end;gap:8px;margin-top:14px;font-size:13px;color:var(--muted)}
 .queue-pagination button:disabled{cursor:default}
+[data-detail-panel][hidden]{display:none}
